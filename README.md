@@ -8,7 +8,7 @@ Most Used Words is a desktop application that verifies into a subtitle file what
 
 ## Clone project
 ```
-git clone https://github.com/Reingaw/most-used-words
+git clone https://github.com/Reingaw/most-used-words.git
 ```
 
 ## Project setup
