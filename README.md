@@ -1,4 +1,15 @@
 # most-used-words
+Most Used Words is a desktop application that verifies into a subtitle file what was the words which most repeated throughout the file.
+
+## Most Used Words was built using:
+- Vue.js
+- Vuetify
+- Electron.js
+
+## Clone project
+```
+git clone https://github.com/Reingaw/most-used-words
+```
 
 ## Project setup
 ```
@@ -7,18 +18,8 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run electron:serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Preview
+![Preview](./src/assets/preview.png)
